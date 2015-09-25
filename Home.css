@@ -1,0 +1,119 @@
+body {
+}
+
+h1{
+    font-family: 'Source Sans Pro', Extralight;
+    text-align:center;
+    color:antiquewhite;
+    font-size: 50px;
+}
+#home{
+    padding-top:20px;
+}
+h4{
+    color:darkorchid;
+    font-weight:500;
+    font-family:'Source Sans Pro',sans-serif;
+    font-size:20px; 
+}
+.underline{
+    border-bottom: 6px ridge;
+    border-bottom-width:thin;
+    padding-bottom:3px;
+    border-bottom-color:darkorchid;
+}
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+.back_top{
+    height:40px;
+    width:180px;
+    font-size: 25px;
+    color:darkorchid;
+    background-color:#1F1C21;
+    text-align:center;
+    font-family:'Source Sans Pro',sans-serif;
+}
+.back_bottom{
+    height:200px;
+    width:180px;
+    background-color:#353538;
+    color:#76737D;
+    font-size:smaller;
+    font-family:'Source Sans Pro',sans-serif;
+    padding-top:20px;
+    padding-left:20px;
+    word-spacing:20px;
+    text-align:justify;
+    position:relative;
+    margin:0px;
+}
+.square{
+    
+    border-radius:10px;
+    background-color: antiquewhite;
+    padding:10px;
+    padding-left:20px;
+    padding-bottom:50px;
+    width:60px;
+    height:60px;
+    margin-left: auto;
+    margin-right:60px;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size:35px;
+    
+}
+.back_bottom img:nth-of-type(1){
+    height:35px;
+    width:25px;
+    float:left;
+    margin-top:15px;
+}
+.back_bottom img:nth-of-type(2){
+    width:25px;
+    height:10px;
+    float:right;
+    margin-top:-35px;
+    margin-right: 20px;
+}
+#place{
+     font-family:'Source Sans Pro',sans-serif;
+     font-size:25px;
+     text-align:center;
+     color:floralwhite;
+     background-color:darkorchid;
+     border-radius:4px;
+     width: 270px;
+     height:50px;
+     margin-left:450px;
+}
