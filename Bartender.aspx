@@ -21,39 +21,27 @@
     
     <div class="row" >
         <div class="col-sm-6 col-xs-12 col-md-3">
-              <h4><span class="underline"> Vodka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
-            <h4><span class="underline"> Gin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">1.5</span>&nbsp;<span style="font-size:small">L</span></span></h4>
-            <h4><span class="underline"> Tequila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
-            <h4><span class="underline"> Whiskey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
+              <h4><span class="underline"> Vodka <span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
+            <h4><span class="underline"> Gin<span style="color:antiquewhite;">1.5</span>&nbsp;<span style="font-size:small">L</span></span></h4>
+            <h4><span class="underline"> Tequila<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
+            <h4><span class="underline"> Whiske<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
             
         </div>
         <div class="col-sm-6 col-xs-12 col-md-3">
-           <h4><span class="underline">Sweet Vermouth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
-            <h4><span class="underline"> Dry Vermouth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">1.5</span>&nbsp;<span style="font-size:small">L</span></span></h4>
-            <h4><span class="underline"> Bloody Mary Mix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">2</span>&nbsp;<span style="font-size:small">L</span></span></h4>
+           <h4><span class="underline">Sweet Vermouth<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
+            <h4><span class="underline"> Dry Vermouth<span style="color:antiquewhite;">1.5</span>&nbsp;<span style="font-size:small">L</span></span></h4>
+            <h4><span class="underline"> Bloody Mary Mix&nbsp<span style="color:antiquewhite;">2</span>&nbsp;<span style="font-size:small">L</span></span></h4>
         </div>
         <div class="col-sm-6 col-xs-12 col-md-3">
-           <h4><span class="underline">Agave Nectar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">24</span>&nbsp;<span style="font-size:small">oz</span></span></h4>
-            <h4><span class="underline"> Orange Juice &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;<span style="color:antiquewhite;">48</span>&nbsp;<span style="font-size:small">oz</span></span></h4>
-            <h4><span class="underline"> Limes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">36</span></span></h4>
+           <h4><span class="underline">Agave Nectar<span style="color:antiquewhite;">24</span>&nbsp;<span style="font-size:small">oz</span></span></h4>
+            <h4><span class="underline"> Orange Juice <span style="color:antiquewhite;">48</span>&nbsp;<span style="font-size:small">oz</span></span></h4>
+            <h4><span class="underline"> Limes<span style="color:antiquewhite;">36</span></span></h4>
         </div>
         <div class="col-sm-6 col-xs-12 col-md-3">
-             <h4><span class="underline"> Cherries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">9</span></span></h4>
-             <h4><span class="underline"> Celeray Stalks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+             <h4><span class="underline"> Cherries<span style="color:antiquewhite;">9</span></span></h4>
+             <h4><span class="underline"> Celeray Stalks 
                   <span style="color:antiquewhite;">16</span></span></h4>
-             <h4><span class="underline"> Olives &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:antiquewhite;">24</span></span></h4>
+             <h4><span class="underline"> Olives <span style="color:antiquewhite;">24</span></span></h4>
 
              </div>
     </div>
