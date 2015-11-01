@@ -30,7 +30,7 @@
         <div class="col-sm-6 col-xs-12 col-md-3">
            <h4><span class="underline">Sweet Vermouth<span style="color:antiquewhite;">750</span>&nbsp;<span style="font-size:small">ML</span></span></h4>
             <h4><span class="underline"> Dry Vermouth<span style="color:antiquewhite;">1.5</span>&nbsp;<span style="font-size:small">L</span></span></h4>
-            <h4><span class="underline"> Bloody Mary Mix&nbsp<span style="color:antiquewhite;">2</span>&nbsp;<span style="font-size:small">L</span></span></h4>
+            <h4><span class="underline"> Bloody Mary Mix <span style="color:antiquewhite;">2</span>&nbsp;<span style="font-size:small">L</span></span></h4>
         </div>
         <div class="col-sm-6 col-xs-12 col-md-3">
            <h4><span class="underline">Agave Nectar<span style="color:antiquewhite;">24</span>&nbsp;<span style="font-size:small">oz</span></span></h4>
